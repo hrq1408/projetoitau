@@ -4,7 +4,7 @@ Neste projeto é possível criar dados de um paciente e resgatar esses dados:
 
 ## Preparando o Ambiente
 
-Antes de tudo é necessário fazer o download do [Código do Backend](https://github.com/hrq1408/projetoitau/tree/main/front/vacinas-back) em Spring Boot e rodá-lo. No README deste projeto estão as instruções para rodá-lo.
+Antes de tudo é necessário fazer o download do [Código do Backend](https://github.com/hrq1408/projetoitau/tree/main/backend/vacinas-back) em Spring Boot e rodá-lo. No README deste projeto estão as instruções para rodá-lo.
 
 ## Criar cadastro
 

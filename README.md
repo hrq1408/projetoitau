@@ -4,4 +4,4 @@ https://github.com/hrq1408/projetoitau/tree/main/front/vacinas-front-fase4-angul
 
 # Back end do Projeto
 
-https://github.com/hrq1408/projetoitau/tree/main/front/vacinas-back
+https://github.com/hrq1408/projetoitau/tree/main/backend/vacinas-back
