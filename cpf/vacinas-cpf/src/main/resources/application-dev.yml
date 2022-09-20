@@ -1,0 +1,10 @@
+info:
+  app:
+    name: Cpf
+    description: Cpf
+
+server:
+  port: 8091
+
+scheduled:
+  cron: 0 0 * * * *

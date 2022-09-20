@@ -1,0 +1,9 @@
+name: projetovacina
+services:
+  database:
+    type: postgres:13
+    portforward: 5432
+    creds:
+      database: postgres
+      user: postgres
+      password: postgres

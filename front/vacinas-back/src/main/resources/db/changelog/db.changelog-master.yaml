@@ -1,0 +1,10 @@
+databaseChangeLog:
+
+  - changeSet:
+      id: public-tables-create-vacinas
+      author: ricardo.ferreira
+      changes:
+        - sqlFile:
+            encoding: utf8
+            path: sqls/create-vacinas.sql
+            relativeToChangelogFile: true

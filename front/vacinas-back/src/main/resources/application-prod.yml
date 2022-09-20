@@ -1,0 +1,17 @@
+info:
+  app:
+    name: Vacinas
+    description: Vacinas
+
+server:
+  port: 8090
+
+scheduled:
+  cron: 0 0 * * * *
+
+spring:
+  datasource:
+    driver: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
